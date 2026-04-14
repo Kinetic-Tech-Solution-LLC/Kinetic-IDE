@@ -1,0 +1,9 @@
+==================================================
+KINETIC IDE: 3D EMBLEM GUIDELINES
+==================================================
+
+The interactive Kinetic 3D Logo (KineticLogo3D.tsx) is a proprietary WebGL shader component and its React source code is not available for public distribution. 
+
+If you require the "K" brand mark for media, marketing, or press coverage, please utilize the high-fidelity pre-rendered video loops (MP4) and static Master Brand Plates (JPG/PNG) provided on the Assets page.
+
+For specific integration requests, please contact the Kinetic Founders.

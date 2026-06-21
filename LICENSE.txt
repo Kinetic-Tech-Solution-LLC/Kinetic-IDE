@@ -1,11 +1,11 @@
 PROPRIETARY LICENSE
 
-Copyright (c) 2026 Alayra Systems LLC (United States)
-              Alayra Systems Pvt Limited (Pakistan)
+Copyright (c) 2026 Alayra Systems Pvt Limited (Pakistan)
+              Alayra Systems LLC (United States)
 All rights reserved.
 
 Kinetic IDE and all Kinetic-branded products documented in this repository
-are proprietary products of Alayra Systems LLC and Alayra Systems Pvt Limited.
+are proprietary products of Alayra Systems Pvt Limited and Alayra Systems LLC.
 
 This repository is the Master Public Record of engineering velocity and
 architectural milestones. It does not grant any license to use, copy, modify,

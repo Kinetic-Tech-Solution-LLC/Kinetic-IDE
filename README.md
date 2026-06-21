@@ -11,7 +11,7 @@
 
   <h4>The authoritative public record of engineering velocity, architectural milestones, and production readiness for the Kinetic IDE platform.</h4>
 
-  <p><sub>Kinetic IDE is a proprietary product of <strong>Alayra Systems LLC</strong> (United States) and <strong>Alayra Systems Pvt Limited</strong> (Pakistan).</sub></p>
+  <p><sub>Kinetic IDE is a proprietary product of <strong>Alayra Systems Pvt Limited</strong> (Pakistan) and <strong>Alayra Systems LLC</strong> (United States).</sub></p>
 
   ---
 
@@ -103,7 +103,7 @@ Recent convergence work (April–June 2026) delivered:
 
 ## Trust & Compliance Posture
 
-- **Proprietary architecture** — All designs, orchestration logic descriptions, and branding documented herein are confidential to **Alayra Systems LLC** and **Alayra Systems Pvt Limited**.
+- **Proprietary architecture** — All designs, orchestration logic descriptions, and branding documented herein are confidential to **Alayra Systems Pvt Limited** and **Alayra Systems LLC**.
 - **No source exposure** — This repository intentionally excludes the IDE core, engine binaries, extension source trees, and operational API handlers.
 - **Audit-grade logging** — Enterprise opt-in forensic logging and Pulse Trace sidecars support internal compliance review without third-party telemetry dependencies.
 
@@ -113,9 +113,9 @@ Recent convergence work (April–June 2026) delivered:
 
 All architectural designs, branding, and logic descriptions documented herein are **Proprietary**.
 
-Kinetic IDE and all Kinetic-branded products are proprietary products of **Alayra Systems LLC** (United States) and **Alayra Systems Pvt Limited** (Pakistan).
+Kinetic IDE and all Kinetic-branded products are proprietary products of **Alayra Systems Pvt Limited** (Pakistan) and **Alayra Systems LLC** (United States).
 
-Copyright © 2026 Alayra Systems LLC · Alayra Systems Pvt Limited. All rights reserved.
+Copyright © 2026 Alayra Systems Pvt Limited · Alayra Systems LLC. All rights reserved.
 
 ---
 

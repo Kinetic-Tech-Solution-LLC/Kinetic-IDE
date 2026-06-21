@@ -28,7 +28,7 @@
 
 ### **24-Feb-2026** | ![](https://img.shields.io/badge/SESSION-22d3ee?style=flat-square) **Plan Mode UX & Branding Sovereignty**
 - Implemented dynamic plan naming and "dirty" tab signaling to prevent accidental data loss during multi-stage AI operations.
-- Asserted sovereign product identity by migrating all system headers and licensing to the Kinetic LLC schema.
+- Asserted sovereign product identity by migrating all system headers and licensing to the Alayra Systems proprietary schema.
 
 ### **24-Feb-2026** | ![](https://img.shields.io/badge/SESSION-22d3ee?style=flat-square) **Persistent Session Memory & Mode-Driven Patching**
 - Enabled terminal-persistent memory and dynamic backend path resolution for non-standard environments.
@@ -744,8 +744,8 @@
 
 ### **21-Jun-2026** | ![](https://img.shields.io/badge/SESSION-22d3ee?style=flat-square) **Public Record Hygiene & Corporate Identity Alignment**
 - Removed misplaced operational contact API handlers from the Master Public Record repository; contact pipeline remains in private frontend and backend deployments.
-- Updated proprietary license and public documentation to reflect **Alayra Systems LLC** (United States) and **Alayra Systems Pvt Limited** (Pakistan) as the legal entities for all Kinetic-branded products.
-- Extended the engineering pulse through June 2026 and refreshed the enterprise README to match current convergence status.
+- Replaced all legacy **Kinetic Tech Solution** and **Alayra Group** entity references across public files with **Alayra Systems Pvt Limited** (Pakistan) and **Alayra Systems LLC** (United States).
+- Published proprietary **LICENSE.txt**, refreshed the enterprise README, and extended the engineering pulse through June 2026 (191+ sessions).
 
 ---
 

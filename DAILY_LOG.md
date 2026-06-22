@@ -781,6 +781,11 @@
 - Eliminated dishonest stub Mission/Trace pulses on Kinetic Cloud text-only replay path — real pulses now come only from the engine harness.
 - Added automated contract pins for blueprint-before-execution and execution-ledger fidelity; shipped PL-7 log verifier for desktop golden-path QA.
 
+### **22-Jun-2026** | ![](https://img.shields.io/badge/SESSION-22d3ee?style=flat-square) **Reliability Hardening (June Phase 5)**
+- Locked Ask-lane contract: tool-only turns must end with prose, synthesized summary, or explicit notice — never empty chat bubbles.
+- Added health-probe failure backoff and orchestration log grep pack wired into CI harness tests.
+- Published orchestration PR definition-of-done checklist linked from agent and contributor docs.
+
 ---
 
 **[Current Record: Active Development]**

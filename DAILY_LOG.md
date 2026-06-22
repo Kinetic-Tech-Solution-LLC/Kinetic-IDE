@@ -757,6 +757,11 @@
 - Installed Rust security auditing tooling and recorded a baseline advisory count for the kinetic engine (transitive TLS/compression deps deferred to a dedicated sprint).
 - Established a triage policy for GitHub Dependabot: fix Kinetic-owned packages now; defer bulk upstream alerts until scheduled VS Code sync.
 
+### **22-Jun-2026** | ![](https://img.shields.io/badge/SESSION-22d3ee?style=flat-square) **Turn Lifecycle Trust (Priority 0)**
+- Hardened Custom AI Code turn handling so silent plan/execute phases no longer trigger false 45-second idle timeouts.
+- Blocked overlapping prompts while a turn is active and ensured Stop fully suppresses zombie engine resume from prior runs.
+- Added automated bridge policy tests; 191 unit tests passing on kinetic-core.
+
 ---
 
 **[Current Record: Active Development]**

@@ -777,6 +777,10 @@
 - Added in-panel blueprint Revise, approved-state locking, and one-click jump to the full Pulse Archive.
 - Pulse Archive panel already carried mockup-grade Mission/Trace rendering; desktop visual QA remains for full parity sign-off.
 
+### **22-Jun-2026** | ![](https://img.shields.io/badge/SESSION-22d3ee?style=flat-square) **Pulse E2E Alignment (June Phase 4)**
+- Eliminated dishonest stub Mission/Trace pulses on Kinetic Cloud text-only replay path — real pulses now come only from the engine harness.
+- Added automated contract pins for blueprint-before-execution and execution-ledger fidelity; shipped PL-7 log verifier for desktop golden-path QA.
+
 ---
 
 **[Current Record: Active Development]**

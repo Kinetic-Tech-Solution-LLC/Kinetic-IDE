@@ -767,6 +767,11 @@
 - Corrected Dashboard routing banner so Auto users see accurate capability messaging when tools and pulses are available.
 - Updated EM-0 verification matrix and added automated routing regression pins; manual golden-path QA on Auto account scheduled for next desktop session.
 
+### **22-Jun-2026** | ![](https://img.shields.io/badge/SESSION-22d3ee?style=flat-square) **Pulse FSM Foundation (June Phase 2)**
+- Audited Blueprint→Mission lifecycle; removed duplicate Mission emission from bridge approve path so Rust structured pulses remain the single source of truth.
+- Added FSM dedup policy helpers and automated regression pins for blueprint-before-mission ordering and Pulse-vs-Sentry separation.
+- Premium Pulse UI (Phase 3) and desktop golden-path validation deferred to next workstation session.
+
 ---
 
 **[Current Record: Active Development]**

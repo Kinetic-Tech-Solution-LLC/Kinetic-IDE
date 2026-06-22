@@ -762,6 +762,11 @@
 - Blocked overlapping prompts while a turn is active and ensured Stop fully suppresses zombie engine resume from prior runs.
 - Added automated bridge policy tests; 191 unit tests passing on kinetic-core.
 
+### **22-Jun-2026** | ![](https://img.shields.io/badge/SESSION-22d3ee?style=flat-square) **Kinetic Auto Harness Audit (June Phase 1)**
+- Confirmed signed-in Auto **Code** and **Vision** modes route through the full local engine harness with cloud inference as the API gateway — not text-only backend replay.
+- Corrected Dashboard routing banner so Auto users see accurate capability messaging when tools and pulses are available.
+- Updated EM-0 verification matrix and added automated routing regression pins; manual golden-path QA on Auto account scheduled for next desktop session.
+
 ---
 
 **[Current Record: Active Development]**

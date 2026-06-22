@@ -786,6 +786,11 @@
 - Added health-probe failure backoff and orchestration log grep pack wired into CI harness tests.
 - Published orchestration PR definition-of-done checklist linked from agent and contributor docs.
 
+### **22-Jun-2026** | ![](https://img.shields.io/badge/SESSION-22d3ee?style=flat-square) **Beta Polish (June Phase 6)**
+- Flipped default Output panel to quiet mode — turn telemetry and bridge debug lines off unless explicitly enabled.
+- Pulse vault metadata now shows workspace folder name instead of full filesystem path.
+- Shipped Sentry-vs-Pulse gate matrix doc and plan-parse failure telemetry for support diagnostics.
+
 ---
 
 **[Current Record: Active Development]**

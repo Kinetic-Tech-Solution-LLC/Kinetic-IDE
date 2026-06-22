@@ -772,6 +772,11 @@
 - Added FSM dedup policy helpers and automated regression pins for blueprint-before-mission ordering and Pulse-vs-Sentry separation.
 - Premium Pulse UI (Phase 3) and desktop golden-path validation deferred to next workstation session.
 
+### **22-Jun-2026** | ![](https://img.shields.io/badge/SESSION-22d3ee?style=flat-square) **Premium Pulse Dashboard UI (June Phase 3)**
+- Shipped tabbed Pulse Timeline sidebar in the AI Dashboard — Blueprint, Mission, and Trace lanes with live execution step feed.
+- Added in-panel blueprint Revise, approved-state locking, and one-click jump to the full Pulse Archive.
+- Pulse Archive panel already carried mockup-grade Mission/Trace rendering; desktop visual QA remains for full parity sign-off.
+
 ---
 
 **[Current Record: Active Development]**

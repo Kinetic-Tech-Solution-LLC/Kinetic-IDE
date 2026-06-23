@@ -791,6 +791,11 @@
 - Pulse vault metadata now shows workspace folder name instead of full filesystem path.
 - Shipped Sentry-vs-Pulse gate matrix doc and plan-parse failure telemetry for support diagnostics.
 
+### **22-Jun-2026** | ![](https://img.shields.io/badge/SESSION-22d3ee?style=flat-square) **Engine Watchdog (Phase 31)**
+- Added Rust heartbeat (`engine_ping` / `engine_pong`) so the host can detect a hung or dead sidecar without reloading the IDE.
+- Bridge watchdog auto-restarts the engine after ~15s silence, clears pending Sentry gates, and surfaces a non-blocking Dashboard toast.
+- Pauses health checks during active chat streams and long index jobs to avoid false restarts.
+
 ---
 
 **[Current Record: Active Development]**
